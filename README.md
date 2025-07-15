@@ -18,3 +18,4 @@ I'm Jaey, a cybersecurity enthusiast currently preparing for service as a 17C (C
 # 📫 Contact 
 
 - **Email:** jaey.cyber@gmail.com
+- **Youtube:** https://www.youtube.com/@jaeydev
