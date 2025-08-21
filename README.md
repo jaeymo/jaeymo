@@ -5,15 +5,12 @@ I'm Jaey, a cybersecurity enthusiast currently preparing for service as a 17C (C
 ## 🛠️ Skillset
 
 - 2 Years Lua experience
-- Basic Python & C++ Experience (in UE5)
-- ROBLOX Development
+- Intermediate Python, Basic C++ (UE5), Basic C# Experience (Unity)
+- ROBLOX Game Development
 
 ## 📚 Currently Working On
 
-- BetterPathfinder (unfinished custom package)
-- BetterAnimation (completed custom package)
-- ResourceAllocator (completed custom package)
-- Wrapper (completed custom package)
+- Cybersecurity Networking Fundamentals
 
 # 📫 Contact 
 
