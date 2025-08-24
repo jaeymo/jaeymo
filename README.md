@@ -5,7 +5,7 @@ I'm Jaey, a cybersecurity enthusiast currently preparing for service as a 17C (C
 ## 🛠️ Skillset
 
 - 2 Years Lua experience
-- Intermediate Python, Basic C++ (UE5), Basic C# Experience (Unity)
+- Basic Python, Basic C++ (UE5), Basic C# Experience (Unity)
 - ROBLOX Game Development
 
 ## 📚 Currently Working On
@@ -16,3 +16,4 @@ I'm Jaey, a cybersecurity enthusiast currently preparing for service as a 17C (C
 
 - **Email:** jaey.cyber@gmail.com
 - **Youtube:** https://www.youtube.com/@jaeydev
+
