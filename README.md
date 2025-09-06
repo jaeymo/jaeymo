@@ -1,6 +1,7 @@
 ## 👋 Welcome
 
 I'm Jaey, a cybersecurity enthusiast currently preparing for service as a 17C (Cyber Operations Specialist) in the National Guard. I'm also a ROBLOX developer with successful past projects!
+You can also get all my packages from Wally under the name "jaeymo"!
 
 ## 🛠️ Skillset
 
@@ -10,11 +11,10 @@ I'm Jaey, a cybersecurity enthusiast currently preparing for service as a 17C (C
 
 ## 📚 Currently Working On
 
-- Cybersecurity Networking Fundamentals
+- Private Projects
 - ROBLOX Packages w/ Wally
 
 # 📫 Contact 
 
 - **Email:** jaey.cyber@gmail.com
 - **Youtube:** https://www.youtube.com/@jaeydev
-
