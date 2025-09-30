@@ -5,17 +5,18 @@ You can get my Wally packages under the name "jaeymo"!
 
 ## 🛠️ Skillset
 
-- 2 Years Luau experience
-- Basic Python, Basic C++ (UE5), Basic C# Experience (Unity)
+- 2+ Years Experience w/ Luau
 - ROBLOX Game Development
+- Basic Python, C, and C#
 
 ## 📚 Currently Working On
 
 - Private Projects
-- ROBLOX Packages w/ Wally
+- ROBLOX Packages via Wally
 
 # 📫 Contact 
 
 - **Email:** jaey.cyber@gmail.com
 - **Youtube:** https://www.youtube.com/@jaeydev
+
 
