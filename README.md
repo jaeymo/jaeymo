@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Jaeymo
 An 18yo **seasoned** Roblox Game Designer and Scripter.
 
-> "Greatness demands sacrifice."  
+> "The days without difficulty are the days you do not improve."  
 > — *The Rage of Dragons* by Evan Winters
 
 I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
@@ -31,6 +31,7 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
 
 
 
