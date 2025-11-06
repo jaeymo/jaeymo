@@ -21,8 +21,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
 readme = re.sub(
-    r'(> ".*?"\s*\n> — .*?\n)',
-    f'> {quote}\n',
+    r'(_\*\*Quote of the Day\*\*_\n> *".*?"\s*— .*?\n)',
+    f'_**Quote of the Day**_\n> {quote}\n',
     readme,
     count=1
 )
