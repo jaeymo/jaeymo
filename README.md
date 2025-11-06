@@ -1,8 +1,7 @@
 # 👋 Hey there! I'm Jaeymo
 An 18yo **seasoned** Roblox Game Designer and Scripter.
 
-> "The days without difficulty are the days you do not improve."  
-> — *The Rage of Dragons* by Evan Winters
+>  "The muscle of willpower is invisible, but it's there." — *My Friend's Dad*
 
 I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
