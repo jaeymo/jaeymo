@@ -11,7 +11,7 @@ I craft code in an architecturally-sound manner, often with behavior-driven patt
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
 🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
 📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a book! \
-📦 **Packages** - I've made lots of wally packages! Go check them out in my roblox-packages repository. 
+📦 **Packages** - I've made lots of wally packages! Go check them out in my roblox-packages repository (pinned).
 
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
@@ -25,7 +25,9 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)
 
 ## 📊 **GitHub Stats**
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
