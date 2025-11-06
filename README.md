@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 _**Quote of the Day**_
->  "But of all the things in all the worlds, words are power." — *Red Rising* by Pierce Brown
+>  "The muscle of willpower is invisible, but it's there." — *My Friend's Dad*
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but commited to Illinois Institute of Technology, majoring in Cybersecurity. \
