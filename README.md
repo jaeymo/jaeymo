@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Jaeymo
-An 18yo **fullstack** ROBLOX programmer.
+An 18yo **seasoned** Roblox Game Designer and Scripter.
 
 _"Greatness demands sacrifice."_
 
@@ -30,5 +30,6 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
 
 
