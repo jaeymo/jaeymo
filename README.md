@@ -1,17 +1,18 @@
 # 👋 Hey there! I'm Jaeymo
 An 18yo **seasoned** Roblox Game Designer and Scripter.
 
-_"Greatness demands sacrifice."_
+> "Greatness demands sacrifice."  
+> — *The Rage of Dragons* by Evan Winters
 
-I'm a major proponent of clean, organized code. I often follow an object-oriented structure with the use of my best package, _Wrapper_.
-I craft code in an architecturally-sound manner, often with behavior-driven patterns.
+I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
+If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but commited to Illinois Institute of Technology, majoring in Cybersecurity. \
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
 🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
-📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a book! \
-📦 **Packages** - I've made lots of wally packages! Go check them out in my roblox-packages repository (pinned).
+📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy series! Some of my favorite series includes **_the Licanius Trilogy_**, **_the Red Rising Trilogy_**, and **_the Poppy War Trilogy_**.  \
+📦 **Packages** - I've made lots of packages via wally and you can find the source code in my roblox-packages repository (pinned).
 
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
@@ -30,6 +31,7 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
 
 
 
