@@ -11,7 +11,7 @@ If you're interested in a code sample, I recommend visiting the source code for 
 🎓 **Education Path** - Currently a senior in high school, but commited to Illinois Institute of Technology, majoring in Cybersecurity. \
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
 🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
-📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy series! Some of my favorite series includes **_the Licanius Trilogy_**, **_the Red Rising Trilogy_**, and **_the Poppy War Trilogy_**.  \
+📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy/sci-fi series! Some of my favorite series includes the **`Licanius Trilogy`**, the **`Red Rising Trilogy`**, and the **`Poppy War Trilogy`**.  \
 📦 **Packages** - I've made lots of packages via wally and you can find the source code in my roblox-packages repository (pinned).
 
 ## 🛠️ **Technical Knowledge**
@@ -31,6 +31,7 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
 
 
 
