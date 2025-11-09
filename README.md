@@ -12,7 +12,7 @@ _**Quote of the Day**_
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
 🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
 📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy/sci-fi series! Some of my favorite series includes the **`Licanius Trilogy`**, the **`Red Rising Trilogy`**, and the **`Poppy War Trilogy`**.  \
-📦 **Packages** - I've made lots of packages via wally and you can find the source code in my roblox-packages repository (pinned).
+📦 **Packages** - I've made lots of packages via wally and you can find the source code in my roblox-packages repository (pinned). 
 
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
