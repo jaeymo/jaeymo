@@ -13,6 +13,7 @@ quotes = [
     """ "The measure of a man is what he does when he has power." — *Red Rising* by Pierce Brown""",
     """ "But of all the things in all the worlds, words are power." — *Red Rising* by Pierce Brown""",
     ' "Our lives mean so much more than the frail bodies that carry them." — *Golden Son* by Pierce Brown ',
+    ' "The hard way to learn is the best way to remember." — *Youtube Comment* ',
 ]
 
 quote = random.choice(quotes)
