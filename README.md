@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 _**Quote of the Day**_
-> "The days without difficulty are the days you do not improve." — *The Rage of Dragons* by Evan Winters
+>  "Alliances made from convenience only ever weaken a cause." — *The Light of All That Falls* by James Islington
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but commited to Illinois Institute of Technology, majoring in Cybersecurity. \
