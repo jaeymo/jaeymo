@@ -8,7 +8,7 @@ _**Quote of the Day**_
 >  "Our lives mean so much more than the frail bodies that carry them." — *Golden Son* by Pierce Brown 
 
 ## Who Am I?
-🎓 **Education Path** - Currently a senior in high school, but commited to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
+🎓 **Education Path** - Currently a senior in high school, but interested in Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
 🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
 📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy/sci-fi series! Some of my favorite series includes the **`Licanius Trilogy`**, the **`Red Rising Trilogy`**, and the **`Poppy War Trilogy`**.  \
