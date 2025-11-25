@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 _**Quote of the Day**_
-> "Better terrible truths than kind lies." — *Six of Crows* by Leigh Bardugo
+> "The measure of a man is what he does when he has power." — *Red Rising* by Pierce Brown
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but interested in Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
