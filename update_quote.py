@@ -23,6 +23,7 @@ quotes = [
     '"Guilt is the idiot cousin of remorse." — *Scythe* by Neal Shusterman',
     '"Friendships take minutes to make, moments to break, and years to repair." — *Golden Son* by Pierce Brown',
     '"Stories are the wealth of humanity!" — *Iron Gold* by Pierce Brown',
+    "Your \"Plan B\" is the exact reason your \"Plan A\" failed. — *Blue Lock*",
 ]
 
 quote = random.choice(quotes)
