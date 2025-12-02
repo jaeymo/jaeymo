@@ -1,9 +1,6 @@
 import random
 import re
 
-import random
-import re
-
 quotes = [
     '"Greatness demands sacrifice." — *The Rage of Dragons* by Evan Winters',
     '"The days without difficulty are the days you do not improve." — *The Rage of Dragons* by Evan Winters',
@@ -23,23 +20,8 @@ quotes = [
     '"Guilt is the idiot cousin of remorse." — *Scythe* by Neal Shusterman',
     '"Friendships take minutes to make, moments to break, and years to repair." — *Golden Son* by Pierce Brown',
     '"Stories are the wealth of humanity!" — *Iron Gold* by Pierce Brown',
-    "Your \"Plan B\" is the exact reason your \"Plan A\" failed. — *Blue Lock*",
+    '"Your \"Plan B\" is the exact reason your \"Plan A\" failed." — *Blue Lock*',
 ]
-
-quote = random.choice(quotes)
-
-with open("README.md", "r", encoding="utf-8") as f:
-    readme = f.read()
-
-readme = re.sub(
-    r'(_\*\*Quote of the Day\*\*_\n> *".*?"\s*— .*?\n)',
-    f'_**Quote of the Day**_\n> {quote}\n',
-    readme,
-    count=1
-)
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme)
 
 quote = random.choice(quotes)
 
