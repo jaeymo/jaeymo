@@ -21,6 +21,7 @@ quotes = [
     '"Friendships take minutes to make, moments to break, and years to repair." — *Golden Son* by Pierce Brown',
     '"Stories are the wealth of humanity!" — *Iron Gold* by Pierce Brown',
     '"Your \"Plan B\" is the exact reason your \"Plan A\" failed." — *Blue Lock*',
+    '"Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don\'t have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson'
 ]
 
 quote = random.choice(quotes)
