@@ -22,6 +22,7 @@ quotes = [
     '"Stories are the wealth of humanity!" — *Iron Gold* by Pierce Brown',
     '"Your \"Plan B\" is the exact reason your \"Plan A\" failed." — *Blue Lock*',
     '"Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don\'t have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson'
+    '"*CLANG CLANG CLANG*\nCONFESS" — *Lightbringer* by Pierce Brown',
 ]
 
 quote = random.choice(quotes)
