@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 _**Quote of the Day**_
-> "Greatness demands sacrifice." — *The Rage of Dragons* by Evan Winters
+> "The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but interested in Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
