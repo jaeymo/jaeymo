@@ -8,7 +8,7 @@ _**Quote of the Day**_
 > "The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas
 
 ## Who Am I?
-🎓 **Education Path** - Currently a senior in high school, but interested in Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
+🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
 🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
 📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy/sci-fi series! Some of my favorite series includes the **`Licanius Trilogy`**, the **`Red Rising Trilogy`**, and the **`Poppy War Trilogy`**.  \
