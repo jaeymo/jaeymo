@@ -5,7 +5,8 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 _**Quote of the Day**_
-> "You should never judge the sides of an argument simply by who is doing the arguing." — *The Light of All That Falls* by James Islington
+> "Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don't have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson"*CLANG CLANG CLANG*
+CONFESS" — *Lightbringer* by Pierce Brown
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
