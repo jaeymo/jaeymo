@@ -6,7 +6,6 @@ If you're interested in a code sample, I recommend visiting the source code for 
 
 _**Quote of the Day**_
 > "The days without difficulty are the days you do not improve." — *The Rage of Dragons* by Evan Winters
-CONFESS" — *Lightbringer* by Pierce Brown
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
