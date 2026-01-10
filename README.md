@@ -1,5 +1,5 @@
 # 👋 Hey there! I'm Jaeymo
-An 18yo **seasoned** Roblox Game Designer and Scripter.
+An 18yo Roblox Game Designer and Programmer.
 
 I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
