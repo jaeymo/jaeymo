@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
 
 _**Quote of the Day**_
-> "The muscle of willpower is invisible, but it's there." — *My Friend's Dad*
+> "It's never acceptable to be less than you are." — *The Rage of Dragons* by Evan Winters
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
