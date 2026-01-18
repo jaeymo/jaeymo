@@ -2,7 +2,7 @@
 18 year-old Roblox Game Designer and Programmer.
 
 I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
-If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
+If you're interested in a code sample, I recommend visiting the source code for my package, _Classy_ (see pinned repository.)
 
 _**Quote of the Day**_
 > "The measure of a man is what he does when he has power." — *Red Rising* by Pierce Brown
