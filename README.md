@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Classy_ (see pinned repository.)
 
 _**Quote of the Day**_
-> "You should never judge the sides of an argument simply by who is doing the arguing." — *The Light of All That Falls* by James Islington
+> "The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
