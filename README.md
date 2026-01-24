@@ -17,7 +17,6 @@ _**Quote of the Day**_
 ## 🛠️ **Technical Knowledge**
 ![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
 ![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=roblox)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Unreal
 Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
