@@ -10,7 +10,7 @@ _**Quote of the Day**_
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
 ⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, Illinois State Scholar, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
-🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
+🛠️ **Roblox Experience** - Coming up on 3 years experience luau, professional experience as lead programmer. \
 📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy/sci-fi series! Some of my favorite series includes the **`Licanius Trilogy`**, the **`Red Rising Saga`**, and the **`Poppy War Trilogy`**.  \
 📦 **Packages** - I've made lots of packages via wally and you can find the source code in my roblox-packages repository (pinned). 
 
