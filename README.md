@@ -24,6 +24,11 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)
 
+## Currently Learning
+![Fusion](https://img.shields.io/badge/-Fusion-05122A?style=flat&logo=github)
+![roblox--ts](https://img.shields.io/badge/-roblox--ts-05122A?style=flat&logo=typescript)
+![Flamework](https://img.shields.io/badge/-Flamework-05122A?style=flat&logo=github)
+
 ## 📊 **GitHub Stats**
 
 <div align="center">
