@@ -4,7 +4,7 @@
 I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
 If you're interested in a code sample, I recommend visiting the source code for my package, _Classy_ (see pinned repository.)
 
-_**Quote of the Day**_
+_**Quote of the Day (yes this does update everyday)**_ 
 > "Guilt is the idiot cousin of remorse." — *Scythe* by Neal Shusterman
 
 ## Who Am I?
