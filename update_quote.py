@@ -17,11 +17,11 @@ quotes = [
     '"The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas',
     '"Better terrible truths than kind lies." — *Six of Crows* by Leigh Bardugo',
     '"Without the threat of suffering, we can\'t experience true joy." — *Scythe* by Neal Shusterman',
-    # '"Guilt is the idiot cousin of remorse." — *Scythe* by Neal Shusterman',
+    '"Guilt is the idiot cousin of remorse." — *Scythe* by Neal Shusterman',
     '"Friendships take minutes to make, moments to break, and years to repair." — *Golden Son* by Pierce Brown',
     '"Stories are the wealth of humanity!" — *Iron Gold* by Pierce Brown',
     '"Your \"Plan B\" is the exact reason your \"Plan A\" failed." — *Blue Lock*',
-    '"Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don\'t have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson'
+    '"Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don\'t have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson',
     '"*CLANG CLANG CLANG*\nCONFESS" — *Lightbringer* by Pierce Brown',
     '"It\'s hard knowing when you\'ll go bankrupt when the currency you spend is time." — *Legend 2026*'
 ]
@@ -32,8 +32,8 @@ with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
 
 readme = re.sub(
-    r'(_\*\*Quote of the Day\*\*_\n> *".*?"\s*— .*?\n)',
-    f'_**Quote of the Day**_\n> {quote}\n',
+    r'(_\*\*Quote of the Day.*?\*\*_\s*\n>[\s\S]*?\n)',
+    f'_**Quote of the Day (yes this does update everyday)**_ \n> {quote}\n',
     readme,
     count=1
 )
