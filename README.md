@@ -5,7 +5,7 @@ I'm a major proponent of writing clean, organized code. I craft code in an archi
 If you're interested in a code sample, I recommend visiting the source code for my package, _Classy_ (see pinned repository.)
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "It's hard knowing when you'll go bankrupt when the currency you spend is time." — *Legend 2026*
+> "Your "Plan B" is the exact reason your "Plan A" failed." — *Blue Lock*
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
