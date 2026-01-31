@@ -28,7 +28,7 @@ Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unr
 
 ## Currently Learning
 ![Fusion](https://img.shields.io/badge/-Fusion-05122A?style=flat&logo=github)
-![roblox--ts](https://img.shields.io/badge/-roblox--ts-05122A?style=flat&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Flamework](https://img.shields.io/badge/-Flamework-05122A?style=flat&logo=github)
 
 ## Contributions
