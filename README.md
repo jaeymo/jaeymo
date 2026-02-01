@@ -22,25 +22,29 @@ CONFESS" — *Lightbringer* by Pierce Brown
 ![Unreal
 Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)<br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)
-
-## Currently Learning
 ![Fusion](https://img.shields.io/badge/-Fusion-05122A?style=flat&logo=github)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Flamework](https://img.shields.io/badge/-Flamework-05122A?style=flat&logo=github)
 
-## Contributions
-
-| Project | Reach | Preview |
-|--------|-------|---------|
-| [**Imaginary 2.0**](https://www.roblox.com/games/15048061750/Imaginary-2-0) | **7M+ visits** | <img src="https://github.com/user-attachments/assets/79276a01-a698-44bb-96c4-50025e46ed8d" width="300"/> |
-| [**Diokophobia**](https://www.roblox.com/games/133281939656436/DIOKOPHOBIA) | **~10M visits** | <img src="https://github.com/user-attachments/assets/2b74a8f7-1a8a-46d6-aaad-ec550f8734de" width="300"/> |
-
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
 </div>
+
+## Contributions
+
+Here’s a selection of my notable Roblox projects and game jam entries:
+
+| Type | Project | Reach / Result | Preview |
+|------|--------|----------------|---------|
+| Game | [**Imaginary 2.0**](https://www.roblox.com/games/15048061750/Imaginary-2-0) | **7M+ visits** | <img src="https://github.com/user-attachments/assets/79276a01-a698-44bb-96c4-50025e46ed8d" width="200"/> |
+| Game | [**Diokophobia**](https://www.roblox.com/games/133281939656436/DIOKOPHOBIA) | **~10M visits** | <img src="https://github.com/user-attachments/assets/2b74a8f7-1a8a-46d6-aaad-ec550f8734de" width="200"/> |
+| Game Jam | [**Shura**](https://www.roblox.com/games/16716614843/Shura) | **1st Place (MonkeyDev Spring Game Jam)** | <img src="https://github.com/user-attachments/assets/b87f96eb-4195-46d6-ac8b-ff9917e68b34" width="200"/> |
+| Game Jam | [**HUNTED**](https://www.roblox.com/games/16883092336/HUNTED) | **1st Place (Cone Easter Game Jam)** | <img src="https://github.com/user-attachments/assets/fe0b969d-a322-45ff-ab74-ebddcf6a9ac5" width="200"/> |
+
+
