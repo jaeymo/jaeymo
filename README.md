@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "*CLANG CLANG CLANG*
+> "To defend against failure, every day must be hard. Every day must strengthen you. For it's in the crucible of hard days that potential becomes power." — *The Rage of Dragons* by Evan Winters
 CONFESS" — *Lightbringer* by Pierce Brown
 
 ## Who Am I?
