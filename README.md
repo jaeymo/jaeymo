@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "Alliances made from convenience only ever weaken a cause." — *The Light of All That Falls* by James Islington
+> "You should never judge the sides of an argument simply by who is doing the arguing." — *The Light of All That Falls* by James Islington
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
