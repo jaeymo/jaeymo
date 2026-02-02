@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "It\'s hard knowing when you\'ll go bankrupt when the currency you spend is time." — *Legend 2026*
+> "We each survive in our own way." — *Throne of Glass* by Sarah J. Maas
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
