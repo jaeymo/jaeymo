@@ -7,7 +7,6 @@ for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
 > "Your "Plan B" is the exact reason your "Plan A" failed." — *Blue Lock*
-CONFESS" — *Lightbringer* by Pierce Brown
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
