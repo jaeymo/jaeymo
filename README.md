@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "Better terrible truths than kind lies." — *Six of Crows* by Leigh Bardugo
+> "To defend against failure, every day must be hard. Every day must strengthen you. For it's in the crucible of hard days that potential becomes power." — *The Rage of Dragons* by Evan Winters
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
