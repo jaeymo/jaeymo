@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "The muscle of willpower is invisible, but it's there." — *My Friend's Dad*
+> "The measure of a man is what he does when he has power." — *Red Rising* by Pierce Brown
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
