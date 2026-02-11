@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "The measure of a man is what he does when he has power." — *Red Rising* by Pierce Brown
+> "The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
