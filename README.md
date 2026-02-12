@@ -5,8 +5,8 @@ I love deep-diving into other developers' source code to learn the intricacies o
 though, I can be flexible and adhere to any structure in a coding environment! If you're interested in a _luau_ code sample, I strongly suggest you visit the source code
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
-_**Quote of the Day (yes this is automated)**_ 
-> "The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas
+_**Quote of the Day (yes this does update everyday)**_ 
+> "Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don't have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
