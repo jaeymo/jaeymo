@@ -5,7 +5,7 @@ I love deep-diving into other developers' source code to learn the intricacies o
 though, I can be flexible and adhere to any structure in a coding environment! If you're interested in a _luau_ code sample, I strongly suggest you visit the source code
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
-_**Quote of the Day (yes this does update everyday)**_ 
+_**Quote of the Day (yes this is automated)**_ 
 > "The fear of loss... it can destroy you as much as the loss itself." — *Empire of Storms* by Sarah J. Maas
 
 ## Who Am I?
