@@ -24,7 +24,7 @@ quotes = [
     '"Friendship—my definition—is built on two things. Respect and trust. Both elements have to be there. And it has to be mutual. You can have respect for someone, but if you don\'t have trust, the friendship will crumble." — *The Girl With the Dragon Tattoo* by Stieg Larsson',
     '"*CLANG CLANG CLANG* — CONFESS" — *Lightbringer* by Pierce Brown',
     '"It\'s hard knowing when you\'ll go bankrupt when the currency you spend is time." — *Legend 2026*',
-    '"To have no peace is to feel of a guest in your own home." — *Legend 2026*`
+    '"To have no peace is to feel of a guest in your own home." — *Legend 2026*'
 ]
 
 quote = random.choice(quotes)
