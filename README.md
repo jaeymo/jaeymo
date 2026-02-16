@@ -6,7 +6,7 @@ though, I can be flexible and adhere to any structure in a coding environment! I
 for my package, [Classy](https://github.com/jaeymo/Classy).
 
 _**Quote of the Day (yes this does update everyday)**_ 
-> "The days without difficulty are the days you do not improve." — *The Rage of Dragons* by Evan Winters
+> "Stories are the wealth of humanity!" — *Iron Gold* by Pierce Brown
 
 ## Who Am I?
 🎓 **Education Path** - Currently a senior in high school, but accepted to Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
