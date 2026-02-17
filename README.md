@@ -41,6 +41,7 @@ Here’s a selection of my notable Roblox projects and game jam entries:
 | Type | Project | Reach / Result | Preview |
 |------|--------|----------------|---------|
 | Game | [**Imaginary 2.0**](https://www.roblox.com/games/15048061750/Imaginary-2-0) | **7M+ visits** | <img src="https://github.com/user-attachments/assets/79276a01-a698-44bb-96c4-50025e46ed8d" width="200"/> |
+| Game | [**Spin a Brainrot**](https://www.roblox.com/games/112371649846345/Spin-a-Brainrot) | **60M+ visits** | <img width="200" alt="image" src="https://github.com/user-attachments/assets/112ffe8c-a6a3-49df-a84e-fc562ff2bf5e" /> |
 | Game | [**Diokophobia**](https://www.roblox.com/games/133281939656436/DIOKOPHOBIA) | **~10M visits** | <img src="https://github.com/user-attachments/assets/2b74a8f7-1a8a-46d6-aaad-ec550f8734de" width="200"/> |
 | Game Jam | [**Shura**](https://www.roblox.com/games/16716614843/Shura) | **1st Place (MonkeyDev Spring Game Jam)** | <img src="https://github.com/user-attachments/assets/b87f96eb-4195-46d6-ac8b-ff9917e68b34" width="200"/> |
 | Game Jam | [**HUNTED**](https://www.roblox.com/games/16883092336/HUNTED) | **1st Place (Cone Easter Game Jam)** | <img src="https://github.com/user-attachments/assets/fe0b969d-a322-45ff-ab74-ebddcf6a9ac5" width="200"/> |
