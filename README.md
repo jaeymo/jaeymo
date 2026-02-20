@@ -44,7 +44,7 @@
 <!-- STATS -->
 <div align="center">
 
-## **GitHub Stats**
+### **GitHub Stats**
 
 </div>
 
@@ -78,7 +78,7 @@
 
 </div>
 
-<!-- ## **Who Am I?**
+<!-- ### **Who Am I?**
 
 | ⭐ Academic Rigor | 📘 Outside Life |
 |------------------|----------------|
@@ -121,7 +121,7 @@
 <!-- TECH STACK -->
 <div align="center">
 
-## **Tech Stack**
+### **Tech Stack**
 
 </div>
 
@@ -149,7 +149,7 @@
 <!-- CONTRIBUTIONS -->
 <!-- <div align="center">
 
-## **Contributions**
+### **Contributions**
 
 </div>
 
