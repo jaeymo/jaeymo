@@ -14,7 +14,7 @@
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716)](https://git.io/typing-svg)
 
 <!-- STATS -->
 ## **GitHub Stats**
