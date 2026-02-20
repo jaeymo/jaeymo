@@ -10,10 +10,13 @@
   </picture>
 </p>
 
+
+<!-- TYPING SVG -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716)](https://git.io/typing-svg)
 
+<!-- STATS -->
 ## **GitHub Stats**
 
 </div>
@@ -48,9 +51,7 @@
 
 </div>
 
-<div align="center">
-
-## **Who Am I?**
+<!-- ## **Who Am I?**
 
 | ⭐ Academic Rigor | 📘 Outside Life |
 |------------------|----------------|
@@ -64,10 +65,10 @@
 | • Illinois State Scholar | • Red Rising Saga |
 | • Poppy War Trilogy |
 | • National Technical Honor Society | |
-| • CollegeBoard National Recognition Award | |
+| • CollegeBoard National Recognition Award | | -->
 
-</div>
 
+<!-- TECH STACK -->
 <div align="center">
 
 ## **Tech Stack**
@@ -95,6 +96,7 @@
 </table>
 </div>
 
+<!-- CONTRIBUTIONS -->
 <div align="center">
 
 ## **Contributions**
@@ -161,6 +163,20 @@
 
 </div>
 
+<!-- CONTRIBUTION CHART -->
+<!-- <div align="center">
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
+
+</td>
+</tr>
+</table>
+</div> -->
+
+<!-- SNAKE -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
@@ -171,6 +187,7 @@
 
 <div align="center">
 
+<!-- CLICKABLE THINGS AT THE END -->
 <div align="center">
   <a href="https://discordapp.com/users/671047536085041165">
     <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=ffffff" />
