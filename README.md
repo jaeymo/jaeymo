@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=282828&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Systems%20•%20Cybersecurity%20•%20Engineering&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Systems%20•%20Cybersecurity%20•%20Engineering&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <source media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
   </picture>
 </p>
 
@@ -35,7 +35,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=282828&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2a2a2a&include_all_commits=true&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -48,7 +48,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=282828&title_color=ffffff&text_color=ffffff&border_color=444444"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff&border_color=2a2a2a"
   />
   <source
     media="(prefers-color-scheme: light)"
@@ -173,9 +173,9 @@
 
 <div align="center">
   <a href="https://discordapp.com/users/671047536085041165">
-    <img src="https://img.shields.io/badge/Discord-282828?style=for-the-badge&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=ffffff" />
   </a>&nbsp;
   <a href="mailto:jaey.cyber@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-282828?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </div>
