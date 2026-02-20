@@ -4,10 +4,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=0a0f14&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <source media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0a0f14&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
   </picture>
 </p>
 
@@ -43,27 +43,27 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=161b22&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=0a0f14&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=161b22&include_all_commits=true&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=f5f5f5&title_color=000000&text_color=000000&icon_color=000000&border_color=d0d0d0&include_all_commits=true&count_private=true"
   />
   <img height="180em"
-    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=0a0f14&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=161b22"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0a0f14&title_color=ffffff&text_color=ffffff&border_color=161b22"
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=f5f5f5&title_color=000000&text_color=000000&border_color=d0d0d0"
   />
   <img height="180em"
-    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0a0f14&title_color=ffffff&text_color=ffffff" />
 </picture>
 
 </div>
@@ -93,14 +93,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&title_color=ffffff"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0a0f14&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&title_color=ffffff"
   />
   <source
     media="(prefers-color-scheme: light)"
     srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=f5f5f5&color=000000&line=000000&point=000000&area=true&area_color=d0d0d0&title_color=000000"
   />
   <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&title_color=ffffff" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0a0f14&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&title_color=ffffff" />
 </picture>
 
 </td>
@@ -217,9 +217,9 @@
 <!-- CLICKABLE THINGS AT THE END -->
 <div align="center">
   <a href="https://discordapp.com/users/671047536085041165">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Discord-0a0f14?style=for-the-badge&logo=discord&logoColor=ffffff" />
   </a>&nbsp;
   <a href="mailto:jaey.cyber@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Gmail-0a0f14?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </div>
