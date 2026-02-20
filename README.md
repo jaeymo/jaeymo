@@ -147,7 +147,7 @@
 </div>
 
 <!-- CONTRIBUTIONS -->
-<div align="center">
+<!-- <div align="center">
 
 ## **Contributions**
 
@@ -211,8 +211,9 @@
 <br>
 <br>
 
-</div>
+</div> -->
 
+<br><br>
 
 <!-- CLICKABLE THINGS AT THE END -->
 <div align="center">
