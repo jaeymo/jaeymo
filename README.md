@@ -78,34 +78,6 @@
 
 </div>
 
-<!-- TECH STACK -->
-<div align="center">
-
-## **Tech Stack**
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="50%">
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
-
-</td>
-</tr>
-</table>
-</div>
-
 <!-- ## **Who Am I?**
 
 | ⭐ Academic Rigor | 📘 Outside Life |
@@ -146,6 +118,33 @@
 </table>
 </div>
 
+<!-- TECH STACK -->
+<div align="center">
+
+## **Tech Stack**
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+</div>
 
 <!-- CONTRIBUTIONS -->
 <div align="center">
