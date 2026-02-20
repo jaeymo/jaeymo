@@ -123,7 +123,7 @@
 <tr>
 <td>Game:</td>
 <td><b><a href="https://www.roblox.com/games/133281939656436/DIOKOPHOBIA">Diokophobia</a></b></td>
-<td><b>7M+ visits</b></td>
+<td><b>~10M visits</b></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/2b74a8f7-1a8a-46d6-aaad-ec550f8734de" width="200"/></td>
 </tr>
 
@@ -137,21 +137,21 @@
 <tr>
 <td>Game Jam:</td>
 <td><b><a href="https://www.roblox.com/games/133628886192310/Heart-of-the-Plague">Heart of the Plague</a></b></td>
-<td><b>7M+ visits</b></td>
+<td><b>2nd Place (Cone 2024 Game Jam)</b></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/4070dfa5-6160-4805-a3ee-572e7a2dc35f" width="200" /></td>
 </tr>
 
 <tr>
 <td>Game Jam:</td>
 <td><b><a href="https://www.roblox.com/games/16883092336/HUNTED">HUNTED</a></b></td>
-<td><b>7M+ visits</b></td>
+<td><b>1st Place (Cone Easter Game Jam)</b></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/fe0b969d-a322-45ff-ab74-ebddcf6a9ac5" width="200"/></td>
 </tr>
 
 <tr>
 <td>Game Jam:</td>
 <td><b><a href="https://www.roblox.com/games/16716614843/Shura">Shura</a></b></td>
-<td><b>7M+ visits</b></td>
+<td><b>1st Place (MonkeyDev Spring Game Jam)</b></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/b87f96eb-4195-46d6-ac8b-ff9917e68b34" width="200"/></td>
 </tr>
 
