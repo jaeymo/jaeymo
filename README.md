@@ -1,40 +1,192 @@
-# 👋 Hey there! I'm Jaeymo
-An 18yo **seasoned** Roblox Game Designer and Scripter.
+<!-- im sorry i dont know a lot of html stuff, if this looks horrible i pray for your eyesight -->
 
-I'm a major proponent of writing clean, organized code. I craft code in an architecturally-sound manner, though, I can be flexible in any coding environment! 
-If you're interested in a code sample, I recommend visiting the source code for my package, _Wrapper_ (see pinned repository.)
-
-_**Quote of the Day**_
-> "We each survive in our own way." — *Throne of Glass* by Sarah J. Maas
-
-## Who Am I?
-🎓 **Education Path** - Currently a senior in high school, but interested in Illinois Institute of Technology, majoring in Applied Cybersecurity and Information Technology. \
-⭐ **Academic Rigor** - 31 ACT, 4.208 GPA, 10 APs, CollegeBoard National Recognition Award, 4 years High Honor Roll. \
-🛠️ **Roblox Experience** - 2+ years experience luau, professional experience as lead programmer. \
-📘 **Hobbies** - When I'm not spending time coding, I'm either with my girlfriend, taking care of my siblings, or reading a fantasy/sci-fi series! Some of my favorite series includes the **`Licanius Trilogy`**, the **`Red Rising Trilogy`**, and the **`Poppy War Trilogy`**.  \
-📦 **Packages** - I've made lots of packages via wally and you can find the source code in my roblox-packages repository (pinned). 
-
-## 🛠️ **Technical Knowledge**
-![Lua](https://img.shields.io/badge/-Luau-05122A?style=flat&logo=lua)
-![Roblox](https://img.shields.io/badge/-Roblox-05122A?style=flat&logo=roblox)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Unreal
-Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello&logoColor=0079BF)
-
-## 📊 **GitHub Stats**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Systems%20•%20Cybersecurity%20•%20Engineering&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
+  </picture>
+</p>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&langs_count=8&theme=dark"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=PLACEHOLDER)](https://git.io/typing-svg)
+
 </div>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+  </picture>
+</p>
 
+<div align="center">
 
+  ## **GitHub Stats**
 
+</div>
 
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&include_all_commits=true&count_private=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&include_all_commits=true&count_private=true"
+  />
+  <img height="180em"
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true" />
+</picture>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000"
+  />
+  <img height="180em"
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact" />
+</picture>
+
+</div>
+
+<div align="center">
+
+## **Who Am I?**
+
+<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+<div style="border: 1px solid #888; padding: 16px; width: 280px; text-align: left;">
+⭐ <b>Academic Rigor</b><br><br>
+<b>High School Stats:</b><br>
+• 31 ACT<br>
+• 4.236 GPA<br>
+• 10 AP Courses<br>
+• 4 Years High Honor Roll<br><br>
+
+<b>Awards:</b><br>
+<i>Illinois State Scholar</i><br>
+<i>National Technical Honor Society</i><br>
+<i>CollegeBoard National Recognition Award</i><br>
+</div>
+
+<div style="border: 1px solid #888; padding: 16px; width: 320px; text-align: left;">
+📘 <b>Outside Life</b><br><br>
+<b>What would I be doing if I weren't coding?</b><br>
+• Spending time with family or my girlfriend.<br>
+• Taking care of my siblings.<br>
+• Reading a fantasy/sci-fi series!<br><br>
+<b>Some of my favorites include:</b><br>
+<i>Licanius Trilogy</i><br>
+<i>Red Rising Saga</i><br>
+<i>Poppy War Trilogy</i><br><br>
+</div>
+
+</div>
+</div>
+
+<div align="center">
+
+## **Tech Stack**
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+
+## **Contributions**
+
+</div>
+
+<div align="center">
+<table>
+
+<tr>
+<th>Type</th>
+<th>Project</th>
+<th>Reach / Result</th>
+<th align="center">Preview</th>
+</tr>
+
+<tr>
+<td>Game:</td>
+<td><b><a href="https://www.roblox.com/games/112371649846345/Spin-a-Brainrot">Spin a Brainrot</a></b></td>
+<td><b>60M+ visits</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/112ffe8c-a6a3-49df-a84e-fc562ff2bf5e" width="200"/></td>
+</tr>
+
+<tr>
+<td>Game:</td>
+<td><b><a href="https://www.roblox.com/games/133281939656436/DIOKOPHOBIA">Diokophobia</a></b></td>
+<td><b>7M+ visits</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/2b74a8f7-1a8a-46d6-aaad-ec550f8734de" width="200"/></td>
+</tr>
+
+<tr>
+<td>Game:</td>
+<td><b><a href="https://www.roblox.com/games/15048061750/Imaginary-2-0">Imaginary 2.0</a></b></td>
+<td><b>7M+ visits</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/79276a01-a698-44bb-96c4-50025e46ed8d" width="200"/></td>
+</tr>
+
+<tr>
+<td>Game Jam:</td>
+<td><b><a href="https://www.roblox.com/games/133628886192310/Heart-of-the-Plague">Heart of the Plague</a></b></td>
+<td><b>7M+ visits</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/4070dfa5-6160-4805-a3ee-572e7a2dc35f" width="200" /></td>
+</tr>
+
+<tr>
+<td>Game Jam:</td>
+<td><b><a href="https://www.roblox.com/games/16883092336/HUNTED">HUNTED</a></b></td>
+<td><b>7M+ visits</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/fe0b969d-a322-45ff-ab74-ebddcf6a9ac5" width="200"/></td>
+</tr>
+
+<tr>
+<td>Game Jam:</td>
+<td><b><a href="https://www.roblox.com/games/16716614843/Shura">Shura</a></b></td>
+<td><b>7M+ visits</b></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/b87f96eb-4195-46d6-ac8b-ff9917e68b34" width="200"/></td>
+</tr>
+
+</table>
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <a href="https://discordapp.com/users/671047536085041165"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;
+  <a href="mailto:jaey.cyber@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+</div>
