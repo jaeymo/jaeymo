@@ -30,8 +30,46 @@
 
 </div>
 
-<!-- STATS -->
+<!-- SNAKE -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
+  </picture>
+</p>
 
+<div align="center">
+
+<!-- TECH STACK -->
+<div align="center">
+
+## **Tech Stack**
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
+</div>
+
+<!-- STATS -->
 <div align="center">
 
 ## **GitHub Stats**
@@ -108,33 +146,6 @@
 </table>
 </div>
 
-<!-- TECH STACK -->
-<div align="center">
-
-## **Tech Stack**
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="50%">
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
-
-</td>
-</tr>
-</table>
-</div>
 
 <!-- CONTRIBUTIONS -->
 <div align="center">
@@ -203,16 +214,6 @@
 
 </div>
 
-<!-- SNAKE -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/boshyxd/boshyxd/output/github-snake.svg" />
-  </picture>
-</p>
-
-<div align="center">
 
 <!-- CLICKABLE THINGS AT THE END -->
 <div align="center">
