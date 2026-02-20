@@ -131,7 +131,7 @@
 <td>Game:</td>
 <td><b><a href="https://www.roblox.com/games/15048061750/Imaginary-2-0">Imaginary 2.0</a></b></td>
 <td><b>7M+ visits</b></td>
-<td align="center"><img src="https://github.com/user-attachments/assets/79276a01-a698-44bb-96c4-50025e46ed8d" width="200"/></td>
+<td align="center"><img src="https://github.com/user-attachments/assets/79276a01-a698-44bb-96c4-50025e46ed8d" width="300"/></td>
 </tr>
 
 <tr>
