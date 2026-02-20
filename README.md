@@ -1,12 +1,13 @@
 <!-- im sorry i dont know a lot of html stuff, if this looks horrible i pray for your eyesight -->
 
+<!-- HEADER -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
   </picture>
 </p>
 
@@ -16,48 +17,53 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
   />
 </picture>
 
 </div>
 
 <!-- STATS -->
+
+<div align="center">
+
 ## **GitHub Stats**
+
+</div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=f5f5f5&title_color=000000&text_color=000000&icon_color=000000&border_color=d0d0d0&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=161b22&include_all_commits=true&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2a2a2a&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=f5f5f5&title_color=000000&text_color=000000&icon_color=000000&border_color=d0d0d0&include_all_commits=true&count_private=true"
   />
   <img height="180em"
-    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=f5f5f5&title_color=000000&text_color=000000&border_color=d0d0d0"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&border_color=161b22"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff&border_color=2a2a2a"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=f5f5f5&title_color=000000&text_color=000000&border_color=d0d0d0"
   />
   <img height="180em"
-    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff" />
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
 </picture>
 
 </div>
@@ -79,7 +85,6 @@
 | • CollegeBoard National Recognition Award | | -->
 
 <!-- CONTRIBUTION CHART -->
-<!-- CONTRIBUTION CHART -->
 <div align="center">
 <table>
 <tr>
@@ -88,14 +93,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=f5f5f5&color=000000&line=000000&point=000000&area=true&area_color=dcdcdc&title_color=000000"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&title_color=ffffff"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=121212&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2a2a2a&title_color=ffffff"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=f5f5f5&color=000000&line=000000&point=000000&area=true&area_color=d0d0d0&title_color=000000"
   />
   <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=121212&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2a2a2a&title_color=ffffff" />
+    src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=161b22&title_color=ffffff" />
 </picture>
 
 </td>
@@ -212,9 +217,9 @@
 <!-- CLICKABLE THINGS AT THE END -->
 <div align="center">
   <a href="https://discordapp.com/users/671047536085041165">
-    <img src="https://img.shields.io/badge/Discord-121212?style=for-the-badge&logo=discord&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" />
   </a>&nbsp;
   <a href="mailto:jaey.cyber@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-121212?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
   </a>
 </div>
