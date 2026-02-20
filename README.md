@@ -13,7 +13,21 @@
 <!-- TYPING SVG -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716)](https://git.io/typing-svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+  />
+</picture>
+
+</div>
 
 <!-- STATS -->
 ## **GitHub Stats**
@@ -65,12 +79,24 @@
 | • CollegeBoard National Recognition Award | | -->
 
 <!-- CONTRIBUTION CHART -->
+<!-- CONTRIBUTION CHART -->
 <div align="center">
 <table>
 <tr>
 <td align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=f5f5f5&color=000000&line=000000&point=000000&area=true&area_color=dcdcdc&title_color=000000"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=121212&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2a2a2a&title_color=ffffff"
+  />
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=121212&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=2a2a2a&title_color=ffffff" />
+</picture>
 
 </td>
 </tr>
