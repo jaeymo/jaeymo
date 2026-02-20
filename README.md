@@ -16,14 +16,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716"
   />
 </picture>
 
