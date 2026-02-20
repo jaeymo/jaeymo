@@ -5,7 +5,7 @@
     <source media="(prefers-color-scheme: dark)"
       srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <source media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
   </picture>
 </p>
