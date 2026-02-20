@@ -3,13 +3,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
   </picture>
 </p>
-
 
 <!-- TYPING SVG -->
 <div align="center">
@@ -19,34 +18,32 @@
 <!-- STATS -->
 ## **GitHub Stats**
 
-</div>
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2a2a2a&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=f5f5f5&title_color=000000&text_color=000000&icon_color=000000&border_color=d0d0d0&include_all_commits=true&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=cccccc&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=2a2a2a&include_all_commits=true&count_private=true"
   />
   <img height="180em"
-    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true" />
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=121212&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff&border_color=2a2a2a"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=f5f5f5&title_color=000000&text_color=000000&border_color=d0d0d0"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=cccccc"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff&border_color=2a2a2a"
   />
   <img height="180em"
-    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact" />
+    src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=121212&title_color=ffffff&text_color=ffffff" />
 </picture>
 
 </div>
@@ -67,6 +64,18 @@
 | • National Technical Honor Society | |
 | • CollegeBoard National Recognition Award | | -->
 
+<!-- CONTRIBUTION CHART -->
+<div align="center">
+<table>
+<tr>
+<td align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
+
+</td>
+</tr>
+</table>
+</div>
 
 <!-- TECH STACK -->
 <div align="center">
@@ -162,19 +171,6 @@
 <br>
 
 </div>
-
-<!-- CONTRIBUTION CHART -->
-<!-- <div align="center">
-<table>
-<tr>
-<td align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boshyxd&custom_title=Contribution%20Activity&hide_border=true&bg_color=00000000&color=c9d1d9&line=ffffff&point=ffffff&area=true&area_color=ffffff&title_color=ffffff" width="100%" />
-
-</td>
-</tr>
-</table>
-</div> -->
 
 <!-- SNAKE -->
 <p align="center">
