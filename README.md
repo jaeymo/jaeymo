@@ -3,7 +3,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Systems%20•%20Cybersecurity%20•%20Engineering&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <source media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <img src="https://capsule-render.vercel.app/api?type=rect&color=121212&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22CLANG.%20CLANG.%20CLANG.%20%E2%80%94%20CONFESS%22%20%E2%80%94%20Lightbringer%20by%20Pierce%20Brown&cacheSeconds=0&v=1771559716)](https://git.io/typing-svg)
 
 </div>
 
