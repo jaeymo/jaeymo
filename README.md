@@ -41,34 +41,6 @@
 
 <div align="center">
 
-<!-- TECH STACK -->
-<div align="center">
-
-## **Tech Stack**
-
-</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
-
-</td>
-<td align="center" width="50%">
-
-**Frameworks & Tools**
-
-<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
-
-</td>
-</tr>
-</table>
-</div>
-
 <!-- STATS -->
 <div align="center">
 
@@ -104,6 +76,34 @@
     src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=0a0f14&title_color=ffffff&text_color=ffffff" />
 </picture>
 
+</div>
+
+<!-- TECH STACK -->
+<div align="center">
+
+## **Tech Stack**
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=lua,ts,py,&theme=dark&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,robloxstudio,react,nodejs,git,github,npm,&theme=dark&perline=4" />
+
+</td>
+</tr>
+</table>
 </div>
 
 <!-- ## **Who Am I?**
