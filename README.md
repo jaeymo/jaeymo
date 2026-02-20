@@ -3,10 +3,10 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Systems%20•%20Cybersecurity%20•%20Engineering&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=282828&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff&desc=Systems%20•%20Cybersecurity%20•%20Engineering&descSize=20&descColor=ffffff&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
     <source media="(prefers-color-scheme: light)"
       srcset="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=000000&desc=Programmer%20•%2018y/o%20&descSize=20&descColor=000000&fontAlignY=40&descAlignY=65&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=282828&height=160&section=header&text=JAEYMO&fontSize=52&fontColor=ffffff"/>
   </picture>
 </p>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-  ## **GitHub Stats**
+## **GitHub Stats**
 
 </div>
 
@@ -35,11 +35,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=282828&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=444444&include_all_commits=true&count_private=true"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&include_all_commits=true&count_private=true"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000&border_color=cccccc&include_all_commits=true&count_private=true"
   />
   <img height="180em"
     src="https://github-readme-stats-alpha-nine-75.vercel.app/api?username=jaeymo&show_icons=true" />
@@ -48,11 +48,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=282828&title_color=ffffff&text_color=ffffff&border_color=444444"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=000000"
+    srcset="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact&bg_color=ffffff&title_color=000000&text_color=000000&border_color=cccccc"
   />
   <img height="180em"
     src="https://github-readme-stats-alpha-nine-75.vercel.app/api/top-langs/?username=jaeymo&layout=compact" />
@@ -64,35 +64,20 @@
 
 ## **Who Am I?**
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+| ⭐ Academic Rigor | 📘 Outside Life |
+|------------------|----------------|
+| **High School Stats** | **If I wasn’t coding** |
+| • 31 ACT | • Time with family |
+| • 4.236 GPA | • Helping siblings |
+| • 10 AP Courses | • Reading fantasy/sci-fi |
+| • 4 Years High Honor Roll | |
+|  | **Favorites** |
+| **Awards** | • Licanius Trilogy |
+| • Illinois State Scholar | • Red Rising Saga |
+| • Poppy War Trilogy |
+| • National Technical Honor Society | |
+| • CollegeBoard National Recognition Award | |
 
-<div style="border: 1px solid #888; padding: 16px; width: 280px; text-align: left;">
-⭐ <b>Academic Rigor</b><br><br>
-<b>High School Stats:</b><br>
-• 31 ACT<br>
-• 4.236 GPA<br>
-• 10 AP Courses<br>
-• 4 Years High Honor Roll<br><br>
-
-<b>Awards:</b><br>
-<i>Illinois State Scholar</i><br>
-<i>National Technical Honor Society</i><br>
-<i>CollegeBoard National Recognition Award</i><br>
-</div>
-
-<div style="border: 1px solid #888; padding: 16px; width: 320px; text-align: left;">
-📘 <b>Outside Life</b><br><br>
-<b>What would I be doing if I weren't coding?</b><br>
-• Spending time with family or my girlfriend.<br>
-• Taking care of my siblings.<br>
-• Reading a fantasy/sci-fi series!<br><br>
-<b>Some of my favorites include:</b><br>
-<i>Licanius Trilogy</i><br>
-<i>Red Rising Saga</i><br>
-<i>Poppy War Trilogy</i><br><br>
-</div>
-
-</div>
 </div>
 
 <div align="center">
@@ -187,6 +172,10 @@
 <br>
 
 <div align="center">
-  <a href="https://discordapp.com/users/671047536085041165"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>&nbsp;
-  <a href="mailto:jaey.cyber@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" /></a>
+  <a href="https://discordapp.com/users/671047536085041165">
+    <img src="https://img.shields.io/badge/Discord-282828?style=for-the-badge&logo=discord&logoColor=ffffff" />
+  </a>&nbsp;
+  <a href="mailto:jaey.cyber@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-282828?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
 </div>
