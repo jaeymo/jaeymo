@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1771871034"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1771871068"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1771871034"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1771871068"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1771871034"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&backSpeed=65&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1771871068"
   />
 </picture>
 
