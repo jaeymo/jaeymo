@@ -29,10 +29,9 @@ with open("README.md", "r", encoding="utf-8") as f:
     readme = f.read()
     
 readme = re.sub(
-    r'lines=.*?&v=\d+',
+    r'lines=.*?&cacheSeconds=0&v=\d+',
     f'lines={encoded_quote}&cacheSeconds=0&v={cache_buster}',
-    readme,
-    count=1
+    readme
 )
 
 with open("README.md", "w", encoding="utf-8") as f:
