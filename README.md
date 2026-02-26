@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1772060501"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1772146884"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1772060501"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1772146884"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1772060501"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1772146884"
   />
 </picture>
 
