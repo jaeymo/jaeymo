@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1773096954"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1773183320"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1773096954"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1773183320"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1773096954"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22To%20have%20no%20peace%20is%20to%20feel%20like%20a%20guest%20in%20your%20own%20home.%22%20%E2%80%94%20Legend%202026&cacheSeconds=0&v=1773183320"
   />
 </picture>
 
