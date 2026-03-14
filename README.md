@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Truth%20can%20be%20a%20burden%2C%20but%20secrets%20are%20poison.%22%20%E2%80%94%20The%20Light%20of%20All%20That%20Falls%20by%20James%20Islington&cacheSeconds=0&v=1773442454"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Truth%20can%20be%20a%20burden%2C%20but%20secrets%20are%20poison.%22%20%E2%80%94%20The%20Light%20of%20All%20That%20Falls%20by%20James%20Islington&cacheSeconds=0&v=1773528853"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Truth%20can%20be%20a%20burden%2C%20but%20secrets%20are%20poison.%22%20%E2%80%94%20The%20Light%20of%20All%20That%20Falls%20by%20James%20Islington&cacheSeconds=0&v=1773442454"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Truth%20can%20be%20a%20burden%2C%20but%20secrets%20are%20poison.%22%20%E2%80%94%20The%20Light%20of%20All%20That%20Falls%20by%20James%20Islington&cacheSeconds=0&v=1773528853"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Truth%20can%20be%20a%20burden%2C%20but%20secrets%20are%20poison.%22%20%E2%80%94%20The%20Light%20of%20All%20That%20Falls%20by%20James%20Islington&cacheSeconds=0&v=1773442454"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Truth%20can%20be%20a%20burden%2C%20but%20secrets%20are%20poison.%22%20%E2%80%94%20The%20Light%20of%20All%20That%20Falls%20by%20James%20Islington&cacheSeconds=0&v=1773528853"
   />
 </picture>
 
