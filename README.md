@@ -67,22 +67,6 @@
 
 </div>
 
-<!-- ### **Who Am I?**
-
-| ⭐ Academic Rigor | 📘 Outside Life |
-|------------------|----------------|
-| **High School Stats** | **If I wasn’t coding** |
-| • 31 ACT | • Time with family |
-| • 4.236 GPA | • Helping siblings |
-| • 10 AP Courses | • Reading fantasy/sci-fi |
-| • 4 Years High Honor Roll | |
-|  | **Favorites** |
-| **Awards** | • Licanius Trilogy |
-| • Illinois State Scholar | • Red Rising Saga |
-| • Poppy War Trilogy |
-| • National Technical Honor Society | |
-| • CollegeBoard National Recognition Award | | -->
-
 <!-- CONTRIBUTION CHART -->
 <div align="center">
 <table>
@@ -105,6 +89,26 @@
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+
+### **Who Am I?**
+
+| ⭐ Academic Rigor | 📘 Outside Life |
+|------------------|----------------|
+| **High School Stats** | **If I wasn’t coding** |
+| • 31 ACT | • Time with family |
+| • 4.236 GPA | • Helping siblings |
+| • 10 AP Courses | • Reading fantasy/sci-fi |
+| • 4 Years High Honor Roll | |
+|  | **Favorites** |
+| **Awards** | • Licanius Trilogy |
+| • Illinois State Scholar | • Red Rising Saga |
+| • Poppy War Trilogy |
+| • National Technical Honor Society | |
+| • CollegeBoard National Recognition Award | |
+
 </div>
 
 <!-- TECH STACK -->
@@ -136,7 +140,7 @@
 </div>
 
 <!-- CONTRIBUTIONS -->
-<!-- <div align="center">
+<div align="center">
 
 ### **Contributions**
 
@@ -200,7 +204,7 @@
 <br>
 <br>
 
-</div> -->
+</div>
 
 <!-- SNAKE -->
 <p align="center">
