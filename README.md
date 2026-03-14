@@ -91,26 +91,6 @@
 </table>
 </div>
 
-<div align="center">
-
-### **Who Am I?**
-
-| ⭐ Academic Rigor | 📘 Outside Life |
-|------------------|----------------|
-| **High School Stats** | **If I wasn’t coding** |
-| • 31 ACT | • Time with family |
-| • 4.236 GPA | • Helping siblings |
-| • 10 AP Courses | • Reading fantasy/sci-fi |
-| • 4 Years High Honor Roll | |
-|  | **Favorites** |
-| **Awards** | • Licanius Trilogy |
-| • Illinois State Scholar | • Red Rising Saga |
-| • Poppy War Trilogy |
-| • National Technical Honor Society | |
-| • CollegeBoard National Recognition Award | |
-
-</div>
-
 <!-- TECH STACK -->
 <div align="center">
 
@@ -137,6 +117,37 @@
 </td>
 </tr>
 </table>
+</div>
+
+<!-- WHO AM I  -->
+<div align="center">
+
+### **Who Am I?**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🎓 High School Stats**
+
+• **31 ACT**  
+• **4.286 GPA**  
+• **10 AP Courses**  
+• **4 Years High Honor Roll**
+
+</td>
+<td align="center" width="50%">
+
+**🏆 Awards**
+
+• **Illinois State Scholar**  
+• **National Technical Honor Society**  
+• **CollegeBoard National Recognition Award**
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <!-- CONTRIBUTIONS -->
