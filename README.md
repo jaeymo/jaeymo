@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20muscle%20of%20willpower%20is%20invisible%2C%20but%20it%27s%20there.%22%20%E2%80%94%20My%20Friend%27s%20Dad&cacheSeconds=0&v=1773615385"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1773701890"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20muscle%20of%20willpower%20is%20invisible%2C%20but%20it%27s%20there.%22%20%E2%80%94%20My%20Friend%27s%20Dad&cacheSeconds=0&v=1773615385"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1773701890"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20muscle%20of%20willpower%20is%20invisible%2C%20but%20it%27s%20there.%22%20%E2%80%94%20My%20Friend%27s%20Dad&cacheSeconds=0&v=1773615385"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1773701890"
   />
 </picture>
 
