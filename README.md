@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Greatness%20demands%20sacrifice.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1773788531"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Guilt%20is%20the%20idiot%20cousin%20of%20remorse.%22%20%E2%80%94%20Scythe%20by%20Neal%20Shusterman&cacheSeconds=0&v=1773874681"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Greatness%20demands%20sacrifice.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1773788531"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Guilt%20is%20the%20idiot%20cousin%20of%20remorse.%22%20%E2%80%94%20Scythe%20by%20Neal%20Shusterman&cacheSeconds=0&v=1773874681"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Greatness%20demands%20sacrifice.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1773788531"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Guilt%20is%20the%20idiot%20cousin%20of%20remorse.%22%20%E2%80%94%20Scythe%20by%20Neal%20Shusterman&cacheSeconds=0&v=1773874681"
   />
 </picture>
 
