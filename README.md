@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1774047416"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20never%20acceptable%20to%20be%20less%20than%20you%20are.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1774133557"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1774047416"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20never%20acceptable%20to%20be%20less%20than%20you%20are.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1774133557"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1774047416"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20never%20acceptable%20to%20be%20less%20than%20you%20are.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1774133557"
   />
 </picture>
 
