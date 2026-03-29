@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1774738677"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1774825297"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1774738677"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1774825297"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1774738677"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20hard%20knowing%20when%20you%27ll%20go%20bankrupt%20when%20the%20currency%20you%20spend%20is%20time.%22&cacheSeconds=0&v=1774825297"
   />
 </picture>
 
