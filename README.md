@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20investment%20in%20knowledge%20pays%20the%20best%20interest%22%20%E2%80%94%20Benjamin%20Franklin&cacheSeconds=0&v=1774998086"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1775084827"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20investment%20in%20knowledge%20pays%20the%20best%20interest%22%20%E2%80%94%20Benjamin%20Franklin&cacheSeconds=0&v=1774998086"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1775084827"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20investment%20in%20knowledge%20pays%20the%20best%20interest%22%20%E2%80%94%20Benjamin%20Franklin&cacheSeconds=0&v=1774998086"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1775084827"
   />
 </picture>
 
