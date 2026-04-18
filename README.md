@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20investment%20in%20knowledge%20pays%20the%20best%20interest%22%20%E2%80%94%20Benjamin%20Franklin&cacheSeconds=0&v=1776467383"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1776553473"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20investment%20in%20knowledge%20pays%20the%20best%20interest%22%20%E2%80%94%20Benjamin%20Franklin&cacheSeconds=0&v=1776467383"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1776553473"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20investment%20in%20knowledge%20pays%20the%20best%20interest%22%20%E2%80%94%20Benjamin%20Franklin&cacheSeconds=0&v=1776467383"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1776553473"
   />
 </picture>
 
