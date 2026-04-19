@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1776553473"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1776639923"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1776553473"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1776639923"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22%20%E2%80%94%20Unknown&cacheSeconds=0&v=1776553473"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Better%20terrible%20truths%20than%20kind%20lies.%22%20%E2%80%94%20Six%20of%20Crows%20by%20Leigh%20Bardugo&cacheSeconds=0&v=1776639923"
   />
 </picture>
 
