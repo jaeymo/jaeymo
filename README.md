@@ -143,6 +143,7 @@
 • **Illinois State Scholar**  
 • **National Technical Honor Society**  
 • **CollegeBoard National Recognition Award**
+• **Student of the Year**
 
 </td>
 </tr>
