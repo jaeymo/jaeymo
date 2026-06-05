@@ -171,7 +171,7 @@
 <tr>
 <td>Game:</td>
 <td><b><a href="https://www.roblox.com/games/112371649846345/Spin-a-Brainrot">Spin a Brainrot</a></b></td>
-<td><b>60M+ visits</b></td>
+<td><b>73M+ visits</b></td>
 <td align="center"><img src="https://github.com/user-attachments/assets/112ffe8c-a6a3-49df-a84e-fc562ff2bf5e" width="200"/></td>
 </tr>
 
