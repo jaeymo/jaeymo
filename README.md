@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20muscle%20of%20willpower%20is%20invisible%2C%20but%20it%27s%20there.%22%20%E2%80%94%20My%20Friend%27s%20Dad&cacheSeconds=0&v=1780875439"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20never%20acceptable%20to%20be%20less%20than%20you%20are.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1780962495"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20muscle%20of%20willpower%20is%20invisible%2C%20but%20it%27s%20there.%22%20%E2%80%94%20My%20Friend%27s%20Dad&cacheSeconds=0&v=1780875439"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20never%20acceptable%20to%20be%20less%20than%20you%20are.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1780962495"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20muscle%20of%20willpower%20is%20invisible%2C%20but%20it%27s%20there.%22%20%E2%80%94%20My%20Friend%27s%20Dad&cacheSeconds=0&v=1780875439"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22It%27s%20never%20acceptable%20to%20be%20less%20than%20you%20are.%22%20%E2%80%94%20The%20Rage%20of%20Dragons%20by%20Evan%20Winters&cacheSeconds=0&v=1780962495"
   />
 </picture>
 
