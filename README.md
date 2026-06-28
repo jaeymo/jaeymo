@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Do%20everything%20or%20nothing%E2%80%94death%20still%20comes%22%20%E2%80%94%20The%20Iliad%20by%20Homer&cacheSeconds=0&v=1782603288"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22&cacheSeconds=0&v=1782690015"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Do%20everything%20or%20nothing%E2%80%94death%20still%20comes%22%20%E2%80%94%20The%20Iliad%20by%20Homer&cacheSeconds=0&v=1782603288"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22&cacheSeconds=0&v=1782690015"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Do%20everything%20or%20nothing%E2%80%94death%20still%20comes%22%20%E2%80%94%20The%20Iliad%20by%20Homer&cacheSeconds=0&v=1782603288"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22An%20addiction%20to%20learning%20is%20difficult%20to%20satiate%22&cacheSeconds=0&v=1782690015"
   />
 </picture>
 
