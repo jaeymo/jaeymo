@@ -17,14 +17,14 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Guilt%20is%20the%20idiot%20cousin%20of%20remorse.%22%20%E2%80%94%20Scythe%20by%20Neal%20Shusterman&cacheSeconds=0&v=1784590354"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20measure%20of%20a%20man%20is%20what%20he%20does%20when%20he%20has%20power.%22%20%E2%80%94%20Red%20Rising%20by%20Pierce%20Brown&cacheSeconds=0&v=1784676621"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Guilt%20is%20the%20idiot%20cousin%20of%20remorse.%22%20%E2%80%94%20Scythe%20by%20Neal%20Shusterman&cacheSeconds=0&v=1784590354"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=000000&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20measure%20of%20a%20man%20is%20what%20he%20does%20when%20he%20has%20power.%22%20%E2%80%94%20Red%20Rising%20by%20Pierce%20Brown&cacheSeconds=0&v=1784676621"
   />
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22Guilt%20is%20the%20idiot%20cousin%20of%20remorse.%22%20%E2%80%94%20Scythe%20by%20Neal%20Shusterman&cacheSeconds=0&v=1784590354"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=4000&backSpeed=25&color=FFFFFF&center=true&vCenter=true&width=800&fadeOut=true&fadeOutDelay=4000&lines=%22The%20measure%20of%20a%20man%20is%20what%20he%20does%20when%20he%20has%20power.%22%20%E2%80%94%20Red%20Rising%20by%20Pierce%20Brown&cacheSeconds=0&v=1784676621"
   />
 </picture>
 
