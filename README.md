@@ -131,7 +131,7 @@
 **🎓 High School Stats**
 
 • **31 ACT**  
-• **4.286 GPA**  
+• **4.386 GPA**  
 • **10 AP Courses**  
 • **4 Years High Honor Roll**
 
