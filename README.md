@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/GPA-4.286-D97706?style=flat" alt="4.286 GPA" />
   <img src="https://img.shields.io/badge/AP%20Courses-10-D97706?style=flat" alt="10 AP Courses" />
   <img src="https://img.shields.io/badge/Illinois%20State%20Scholar-Award-D97706?style=flat" alt="Illinois State Scholar" />
+  <img src="https://img.shields.io/badge/90M%2B%20Roblox%20Visits-Contributed-D97706?style=flat" alt="Contributed to 90M+ Roblox visits" />
 </p>
-
 
 <!-- <p align="left">
   <img
