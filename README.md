@@ -92,9 +92,3 @@
   </picture>
 
 </p>
-
-<img
-  height="180em"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=jaeymo&background=FFF6E9&border=E3D8C8&stroke=E3D8C8&ring=D97706&fire=F59E0B&currStreakLabel=171717&sideLabels=5C554D&currStreakNum=171717&sideNums=171717&dates=5C554D&v=2"
-  alt="Jaeymo's GitHub streak"
-/>
