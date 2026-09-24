@@ -17,6 +17,14 @@
   <img src="https://komarev.com/ghpvc/?username=jaeymo&label=Profile%20Visits&color=D97706&style=flat" alt="Profile Visits" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/ACT-31-D97706?style=flat" alt="31 ACT" />
+  <img src="https://img.shields.io/badge/GPA-4.286-D97706?style=flat" alt="4.286 GPA" />
+  <img src="https://img.shields.io/badge/AP%20Courses-10-D97706?style=flat" alt="10 AP Courses" />
+  <img src="https://img.shields.io/badge/Illinois%20State%20Scholar-Award-D97706?style=flat" alt="Illinois State Scholar" />
+</p>
+
+
 <!-- <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=jaeymo&label=Profile%20Visits&color=D97706&style=flat"
