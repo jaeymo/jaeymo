@@ -5,7 +5,7 @@
 <h1 align="left">Hi, I'm Jaeymo!</h1>
 
 <p align="left">
-  <a href="https://discord.com/users/jaeymo">
+  <a href="https://discord.com/users/671047536085041165">
     <img src="https://img.shields.io/badge/Discord-%40jaeymo-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.youtube.com/@jaeydev">
